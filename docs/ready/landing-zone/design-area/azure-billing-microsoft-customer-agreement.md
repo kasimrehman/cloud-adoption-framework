@@ -52,7 +52,7 @@ The Microsoft customer agreement often represents an organization's hierarchy, w
 
 - An organization can have a variety of structures, such as functional, divisional, geographic, matrix, or team. Use organizational structures to map your organization to your agreement hierarchy. Invoice sections are suitable for most scenarios.
 
-- If your business domain has independent IT capabilities, create a new invoice section for IT.
+- If your business domain has independent IT capabilities, create a new invoice section for each.
 
 - Don't ignore notifications sent to the contact email address. Microsoft sends important prompts to this address.
 
